@@ -1,10 +1,10 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-07-31T16:21:27</property>
+    <property name="created">2019-07-31T17:12:15</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-31T16:21:33</property>
+    <property name="modified">2019-07-31T17:12:20</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -73,6 +73,13 @@
       <value>
         <option name="FOREGROUND" value="8be9fd" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="dd4d4d" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="782f2f" />
       </value>
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
@@ -242,6 +249,37 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="f1fa8c" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffb86c" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff79c6" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8be9fd" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff5555" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f1fa8c" />
+      </value>
+    </option>
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -1067,7 +1105,8 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff5555" />
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="ff5555" />
       </value>
     </option>
     <option name="Valid string escape">
