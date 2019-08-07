@@ -1,6 +1,6 @@
 # Dracula theme for Jetbrains IDEs
 
-![Jetbrains Dracula](https://drive.google.com/uc?export=view&id=1zGXbd8OeZIv2tW55a_9SEZ31HEbSqyTB)
+![Jetbrains Dracula](https://raw.githubusercontent.com/cameronldn/jetbrains-theme-dracula/master/preview.png)
 
 ## Installation
 
